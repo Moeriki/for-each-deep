@@ -1,6 +1,6 @@
 {
   "name": "for-each-deep",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "For each, deep.",
   "main": "index.js",
   "scripts": {

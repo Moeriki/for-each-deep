@@ -40,3 +40,7 @@ function forEachDeep(object, fn, path = '') {
 }
 
 export default forEachDeep;
+
+if (module && module.exports) {
+  module.exports = forEachDeep
+}
